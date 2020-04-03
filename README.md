@@ -29,4 +29,7 @@ CodeChef Username : devptyagi01
 ## April 4th, 2020
 
 -> Solved 'Substrings with similar first and last characters' on GeeksForGeeks. 
-(https://practice.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters/0)
+(https://practice.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters/0)  
+
+-> Solved 'Repeated Character' on GeeksForGeeks.   
+(https://practice.geeksforgeeks.org/problems/repeated-character/0)
