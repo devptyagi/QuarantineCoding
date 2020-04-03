@@ -19,7 +19,7 @@ CodeChef Username : devptyagi01
 -> Solved 'Love For The Twins' on GeeksForGeeks.     
 (https://practice.geeksforgeeks.org/problems/love-for-the-twins/0)
 
--> Solved 'Uncommon Characters' on GeeksForGeeks. 
+-> Solved 'Uncommon Characters' on GeeksForGeeks.   
 (https://practice.geeksforgeeks.org/problems/uncommon-characters/0)
 
 -> Solved 'First element to occur k times' on GeeksForGeeks.   
