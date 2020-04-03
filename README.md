@@ -1,5 +1,5 @@
 # QuarantineCoding
-This contians the codes that I solve daily on various Competetive Programming Platforms.
+This repo contians the codes that I solve daily on various Competetive Programming Platforms.
 Starting from 3rd April 2020.
 
 ## April 3rd, 2020
