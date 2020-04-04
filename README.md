@@ -36,3 +36,6 @@ CodeChef Username : devptyagi01
 
 -> Solved 'COVID Pandemic and Long Queue' on CodeChef.    (APRIL LONG CHALLENGE - ONGOING CONTEST)
 (https://www.codechef.com/APRIL20B/problems/COVIDLQ)       
+
+-> Solved 'Sell All the Cars' on CodeChef.    (APRIL LONG CHALLENGE - ONGOING CONTEST)        
+(https://www.codechef.com/APRIL20B/problems/CARSELL)
