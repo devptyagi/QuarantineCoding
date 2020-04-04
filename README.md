@@ -32,4 +32,7 @@ CodeChef Username : devptyagi01
 (https://practice.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters/0)  
 
 -> Solved 'Repeated Character' on GeeksForGeeks.   
-(https://practice.geeksforgeeks.org/problems/repeated-character/0)
+(https://practice.geeksforgeeks.org/problems/repeated-character/0)    
+
+-> Solved 'COVID Pandemic and Long Queue' on CodeChef.    
+(https://www.codechef.com/APRIL20B/problems/COVIDLQ)       
