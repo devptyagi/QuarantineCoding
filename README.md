@@ -34,8 +34,8 @@ CodeChef Username : devptyagi01
 * Solved 'Repeated Character' on GeeksForGeeks.   
 (https://practice.geeksforgeeks.org/problems/repeated-character/0)    
 
-* Solved 'COVID Pandemic and Long Queue' on CodeChef.    (APRIL LONG CHALLENGE - ONGOING CONTEST)
+* Solved 'COVID Pandemic and Long Queue' on CodeChef.     *(APRIL LONG CHALLENGE - ONGOING CONTEST)*
 (https://www.codechef.com/APRIL20B/problems/COVIDLQ)       
 
-* Solved 'Sell All the Cars' on CodeChef.    (APRIL LONG CHALLENGE - ONGOING CONTEST)        
+* Solved 'Sell All the Cars' on CodeChef.      *(APRIL LONG CHALLENGE - ONGOING CONTEST)*        
 (https://www.codechef.com/APRIL20B/problems/CARSELL)
