@@ -40,6 +40,6 @@ CodeChef Username : devptyagi01
 * Solved 'Sell All the Cars' on CodeChef.      **(APRIL LONG CHALLENGE - ONGOING CONTEST)**        
 (https://www.codechef.com/APRIL20B/problems/CARSELL)      
 
-* Solved 'Vestigium' on Google CodeJam Qualification Round 2020.   **ONGOING CONTEST**
+* Solved 'Vestigium' on Google CodeJam Qualification Round 2020.   **(ONGOING CONTEST)**
 (https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c)
 
