@@ -19,23 +19,23 @@ public class Solution {
 		        
 
 		        while (openBracket > digit) {
-                    ans.append(')');
-                    openBracket--;
-                }
+			    ans.append(')');
+			    openBracket--;
+			}
                 
-                while (openBracket < digit) {
-                    ans.append('(');
-                    openBracket++;
-                }
+			while (openBracket < digit) {
+			    ans.append('(');
+			    openBracket++;
+			}
                 
-                ans.append(s.charAt(i));
+                	ans.append(s.charAt(i));
                 
 		    }
 		    
 		    while (openBracket > 0) {
-                ans.append(')');
-                openBracket--;
-            }
+				ans.append(')');
+				openBracket--;
+           	}
 	        System.out.println("Case #"+x+": "+ans.toString());
 	        x++;
 		}
