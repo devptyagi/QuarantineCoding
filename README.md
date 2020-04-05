@@ -46,3 +46,6 @@ CodeChef Username : devptyagi01
 * Solved 'Nesting Depth' on Google CodeJam Qualification Round 2020.       
 (https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f)
 
+* Solved 'Parenting Partnering Returns' on Google CodeJam Qualification Round 2020.      
+(https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9)
+
