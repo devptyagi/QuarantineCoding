@@ -49,5 +49,10 @@ CodeChef Username : devptyagi01
 ## April 5th, 2020
 
 * Solved 'Parenting Partnering Returns' on Google CodeJam Qualification Round 2020.      
-(https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9)
+(https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9)      
+
+## April 8th, 2020
+
+* Solved 'Strange Number' on CodeChef.      **(APRIL LONG CHALLENGE - ONGOING CONTEST)**     
+(https://www.codechef.com/APRIL20B/problems/STRNO)
 
