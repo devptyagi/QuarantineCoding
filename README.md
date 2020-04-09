@@ -13,7 +13,7 @@ CodeChef Username : devptyagi01
 
 ## April 3rd, 2020
 
-* Solved 'A. Boy or Girl' on codeforces.   
+* Solved 'A. Boy or Girl' on Codeforces.   
 (https://codeforces.com/problemset/problem/236/A)
 
 * Solved 'Love For The Twins' on GeeksForGeeks.     
@@ -59,7 +59,10 @@ CodeChef Username : devptyagi01
 ## April 9th, 2020     
 
 * Solved 'Unit GCD' on CodeChef.       **(APRIL LONG CHALLENGE - ONGOING CONTEST)**     
-(https://www.codechef.com/APRIL20B/problems/UNITGCD)
+(https://www.codechef.com/APRIL20B/problems/UNITGCD)    
+
+* Solved 'A. Elephant' on CodeForces.     
+(https://codeforces.com/problemset/problem/617/A)
 
 
 
