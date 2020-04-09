@@ -73,3 +73,5 @@ CodeChef Username : devptyagi01
 * Solved 'Climbing the Leaderboard' on HackerRank.     
 (https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
 
+* Solved 'Lapindromes' on CodeChef.     
+(https://www.codechef.com/LRNDSA01/problems/LAPIN)
