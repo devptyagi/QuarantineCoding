@@ -54,5 +54,12 @@ CodeChef Username : devptyagi01
 ## April 8th, 2020
 
 * Solved 'Strange Number' on CodeChef.      **(APRIL LONG CHALLENGE - ONGOING CONTEST)**     
-(https://www.codechef.com/APRIL20B/problems/STRNO)
+(https://www.codechef.com/APRIL20B/problems/STRNO)     
+
+## April 9th, 2020     
+
+* Solved 'Unit GCD' on CodeChef.       **(APRIL LONG CHALLENGE - ONGOING CONTEST)**     
+(https://www.codechef.com/APRIL20B/problems/UNITGCD)
+
+
 
