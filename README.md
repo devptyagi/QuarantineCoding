@@ -77,4 +77,7 @@ CodeChef Username : devptyagi01
 (https://www.codechef.com/LRNDSA01/problems/LAPIN)     
 
 * Solved 'Smart Phone' on CodeChef.     
-(https://www.codechef.com/LRNDSA01/problems/ZCO14003)
+(https://www.codechef.com/LRNDSA01/problems/ZCO14003)      
+
+* Solved 'Carvans' on CodeChef.    
+(https://www.codechef.com/LRNDSA01/problems/CARVANS)
