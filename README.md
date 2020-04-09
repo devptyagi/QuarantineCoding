@@ -62,7 +62,10 @@ CodeChef Username : devptyagi01
 (https://www.codechef.com/APRIL20B/problems/UNITGCD)    
 
 * Solved 'A. Elephant' on CodeForces.     
-(https://codeforces.com/problemset/problem/617/A)
+(https://codeforces.com/problemset/problem/617/A)      
+
+* Solved 'A. Wrong Subtraction' on CodeForces.     
+(https://codeforces.com/problemset/problem/977/A)     
 
 
 
