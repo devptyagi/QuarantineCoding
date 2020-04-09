@@ -65,7 +65,10 @@ CodeChef Username : devptyagi01
 (https://codeforces.com/problemset/problem/617/A)      
 
 * Solved 'A. Wrong Subtraction' on CodeForces.     
-(https://codeforces.com/problemset/problem/977/A)     
+(https://codeforces.com/problemset/problem/977/A)       
+
+* Solved 'A. HQ9+' on CodeForces.     
+(https://codeforces.com/problemset/problem/133/A)    
 
 
 
