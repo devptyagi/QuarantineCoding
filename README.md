@@ -70,5 +70,6 @@ CodeChef Username : devptyagi01
 * Solved 'A. HQ9+' on CodeForces.     
 (https://codeforces.com/problemset/problem/133/A)    
 
-
+* Solved 'Climbing the Leaderboard' on HackerRank.     
+(https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
 
