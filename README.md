@@ -85,4 +85,7 @@ CodeChef Username : devptyagi01
 ## April 10th, 2020    
 
 * Solved 'A. Chat room' on CodeForces.    
-(https://codeforces.com/problemset/problem/58/A)     
+(https://codeforces.com/problemset/problem/58/A)       
+
+* Solved 'A. Lucky Division' on CodeForces.     
+(https://codeforces.com/problemset/problem/122/A)
