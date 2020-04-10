@@ -88,4 +88,7 @@ CodeChef Username : devptyagi01
 (https://codeforces.com/problemset/problem/58/A)       
 
 * Solved 'A. Lucky Division' on CodeForces.     
-(https://codeforces.com/problemset/problem/122/A)
+(https://codeforces.com/problemset/problem/122/A)     
+
+* Solved 'B. Lucky Substring' on CodeForces.    
+(https://codeforces.com/contest/122/problem/B)
