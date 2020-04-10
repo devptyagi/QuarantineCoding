@@ -80,4 +80,9 @@ CodeChef Username : devptyagi01
 (https://www.codechef.com/LRNDSA01/problems/ZCO14003)      
 
 * Solved 'Carvans' on CodeChef.    
-(https://www.codechef.com/LRNDSA01/problems/CARVANS)
+(https://www.codechef.com/LRNDSA01/problems/CARVANS)      
+
+## April 10th, 2020    
+
+* Solved 'A. Chat room' on CodeForces.    
+(https://codeforces.com/problemset/problem/58/A)     
