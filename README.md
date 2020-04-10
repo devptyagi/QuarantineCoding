@@ -94,4 +94,7 @@ CodeChef Username : devptyagi01
 (https://codeforces.com/contest/122/problem/B)    
 
 * Solved '58B - Coins' on CodeForces.      
-(https://codeforces.com/contest/58/problem/B)
+(https://codeforces.com/contest/58/problem/B)     
+
+* Solved 'Factorial' on CodeChef.     
+(https://www.codechef.com/LRNDSA01/problems/FCTRL)
