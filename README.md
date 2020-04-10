@@ -13,7 +13,7 @@ CodeChef Username : devptyagi01
 
 ## April 3rd, 2020
 
-* Solved 'A. Boy or Girl' on Codeforces.   
+* Solved '236A - Boy or Girl' on Codeforces.   
 (https://codeforces.com/problemset/problem/236/A)
 
 * Solved 'Love For The Twins' on GeeksForGeeks.     
@@ -61,13 +61,13 @@ CodeChef Username : devptyagi01
 * Solved 'Unit GCD' on CodeChef.       **(APRIL LONG CHALLENGE - ONGOING CONTEST)**     
 (https://www.codechef.com/APRIL20B/problems/UNITGCD)    
 
-* Solved 'A. Elephant' on CodeForces.     
+* Solved '617A - Elephant' on CodeForces.     
 (https://codeforces.com/problemset/problem/617/A)      
 
-* Solved 'A. Wrong Subtraction' on CodeForces.     
+* Solved '977A - Wrong Subtraction' on CodeForces.     
 (https://codeforces.com/problemset/problem/977/A)       
 
-* Solved 'A. HQ9+' on CodeForces.     
+* Solved '133A - HQ9+' on CodeForces.     
 (https://codeforces.com/problemset/problem/133/A)    
 
 * Solved 'Climbing the Leaderboard' on HackerRank.     
@@ -84,11 +84,14 @@ CodeChef Username : devptyagi01
 
 ## April 10th, 2020    
 
-* Solved 'A. Chat room' on CodeForces.    
+* Solved '58A - Chat room' on CodeForces.    
 (https://codeforces.com/problemset/problem/58/A)       
 
-* Solved 'A. Lucky Division' on CodeForces.     
+* Solved '122A - Lucky Division' on CodeForces.     
 (https://codeforces.com/problemset/problem/122/A)     
 
-* Solved 'B. Lucky Substring' on CodeForces.    
-(https://codeforces.com/contest/122/problem/B)
+* Solved '122B - Lucky Substring' on CodeForces.    
+(https://codeforces.com/contest/122/problem/B)    
+
+* Solved '58B - Coins' on CodeForces.      
+(https://codeforces.com/contest/58/problem/B)
