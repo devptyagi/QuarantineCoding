@@ -102,4 +102,7 @@ CodeChef Username : devptyagi01
 ## April 11th, 2020      
 
 * Solved 'Coin Flip' on CodeChef.    
-(https://www.codechef.com/LRNDSA01/problems/CONFLIP)
+(https://www.codechef.com/LRNDSA01/problems/CONFLIP)     
+
+* Solevd 'Laddu' on CodeChef.    
+(https://www.codechef.com/LRNDSA01/problems/LADDU)     
