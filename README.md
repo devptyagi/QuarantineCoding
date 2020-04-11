@@ -106,3 +106,6 @@ CodeChef Username : devptyagi01
 
 * Solevd 'Laddu' on CodeChef.    
 (https://www.codechef.com/LRNDSA01/problems/LADDU)     
+
+* Solved 'Multiple of 3' on CodeChef.    
+(https://www.codechef.com/LRNDSA01/problems/MULTHREE)
