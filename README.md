@@ -97,4 +97,9 @@ CodeChef Username : devptyagi01
 (https://codeforces.com/contest/58/problem/B)     
 
 * Solved 'Factorial' on CodeChef.     
-(https://www.codechef.com/LRNDSA01/problems/FCTRL)
+(https://www.codechef.com/LRNDSA01/problems/FCTRL)    
+
+## April 11th, 2020      
+
+* Solved 'Coin Flip' on CodeChef.    
+(https://www.codechef.com/LRNDSA01/problems/CONFLIP)
