@@ -2,7 +2,7 @@ import java.util.*;
 
 public class ParanthesisChecker {
 
-	static void paranthesisCheck(String s) {
+	static boolean paranthesisCheck(String s) {
         Stack<Character> stack = new Stack<>();
         for(int i=0;i<s.length();i++) {
             
@@ -16,19 +16,19 @@ public class ParanthesisChecker {
                 if(topChar == '{')
                     stack.pop();
                 else
-                  stack.push(s.charAt(i));
+                	return false;
             } else if(s.charAt(i) == ']'){
                 topChar = stack.peek();
                 if(topChar == '[')
                     stack.pop();
                 else
-                  stack.push(s.charAt(i));
+                	return false;
             } else if(s.charAt(i) == ')'){
                 topChar = stack.peek();
                 if(topChar == '(')
                     stack.pop();
                 else
-                  stack.push(s.charAt(i));
+                	return false;
             } else {
                 stack.push(s.charAt(i));
             }
@@ -36,9 +36,9 @@ public class ParanthesisChecker {
         
         
         if(stack.isEmpty()) {
-            System.out.println("balanced");
+            return true;
         } else {
-            System.out.println("not balanced");
+            return false;
         }
     }
 	
@@ -47,7 +47,11 @@ public class ParanthesisChecker {
 		int t = sc.nextInt();
 		while(t-- != 0) {
 		    String s = sc.next();
-		    paranthesisCheck(s);
+		    if(paranthesisCheck(s)) {
+			System.out.println("balanced");
+		    } else {
+			System.out.println("not balanced");
+		    }
 		}
 		sc.close();
 	}
