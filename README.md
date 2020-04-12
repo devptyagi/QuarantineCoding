@@ -108,4 +108,10 @@ CodeChef Username : devptyagi01
 (https://www.codechef.com/LRNDSA01/problems/LADDU)     
 
 * Solved 'Multiple of 3' on CodeChef.    
-(https://www.codechef.com/LRNDSA01/problems/MULTHREE)
+(https://www.codechef.com/LRNDSA01/problems/MULTHREE)     
+
+
+## April 12th, 2020    
+
+* Solved 'Paranthesis Checker' on CodeChef.    
+(https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
