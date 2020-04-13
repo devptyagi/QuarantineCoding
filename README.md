@@ -114,4 +114,9 @@ CodeChef Username : devptyagi01
 ## April 12th, 2020    
 
 * Solved 'Paranthesis Checker' on GeeksForFeeks.    
-(https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+(https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)    
+
+## April 13th, 2020     
+ 
+* Solved 'Overlapping Intervals' on GeeksForGeeks.   
+(https://practice.geeksforgeeks.org/problems/overlapping-intervals/0)
