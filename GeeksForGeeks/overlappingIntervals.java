@@ -26,7 +26,6 @@ class Solution {
     static void mergeIntervals(ArrayList<Interval> intervals) {
         
         if(intervals == null) {
-            intervals = new ArrayList<Interval>();
             return;
         }else if(intervals.size() == 0) {
             return;
