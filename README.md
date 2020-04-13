@@ -122,4 +122,8 @@ CodeChef Username : devptyagi01
 (https://practice.geeksforgeeks.org/problems/overlapping-intervals/0)     
 
 * Solved 'Binary String' on GeeksForGeeks.    
-(https://practice.geeksforgeeks.org/problems/binary-string/0/)
+(https://practice.geeksforgeeks.org/problems/binary-string/0/)     
+
+* Solved 'Balanced Brackets' on HackerRank.     
+(https://www.hackerrank.com/challenges/balanced-brackets/problem)
+
