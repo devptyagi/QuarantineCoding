@@ -34,10 +34,10 @@ CodeChef Username : devptyagi01
 * Solved 'Repeated Character' on GeeksForGeeks.   
 (https://practice.geeksforgeeks.org/problems/repeated-character/0)    
 
-* Solved 'COVID Pandemic and Long Queue' on CodeChef.     **(APRIL LONG CHALLENGE - ONGOING CONTEST)**
+* Solved 'COVID Pandemic and Long Queue' on CodeChef.     **(APRIL LONG CHALLENGE - COMPLETED)**
 (https://www.codechef.com/APRIL20B/problems/COVIDLQ)       
 
-* Solved 'Sell All the Cars' on CodeChef.      **(APRIL LONG CHALLENGE - ONGOING CONTEST)**        
+* Solved 'Sell All the Cars' on CodeChef.      **(APRIL LONG CHALLENGE - COMPLETED)**        
 (https://www.codechef.com/APRIL20B/problems/CARSELL)      
 
 * Solved 'Vestigium' on Google CodeJam Qualification Round 2020.      
@@ -53,12 +53,12 @@ CodeChef Username : devptyagi01
 
 ## April 8th, 2020
 
-* Solved 'Strange Number' on CodeChef.      **(APRIL LONG CHALLENGE - ONGOING CONTEST)**     
+* Solved 'Strange Number' on CodeChef.      **(APRIL LONG CHALLENGE - COMPLETED)**     
 (https://www.codechef.com/APRIL20B/problems/STRNO)     
 
 ## April 9th, 2020     
 
-* Solved 'Unit GCD' on CodeChef.       **(APRIL LONG CHALLENGE - ONGOING CONTEST)**     
+* Solved 'Unit GCD' on CodeChef.       **(APRIL LONG CHALLENGE - COMPLETED)**     
 (https://www.codechef.com/APRIL20B/problems/UNITGCD)    
 
 * Solved '617A - Elephant' on CodeForces.     
@@ -125,5 +125,7 @@ CodeChef Username : devptyagi01
 (https://practice.geeksforgeeks.org/problems/binary-string/0/)     
 
 * Solved 'Balanced Brackets' on HackerRank.     
-(https://www.hackerrank.com/challenges/balanced-brackets/problem)
+(https://www.hackerrank.com/challenges/balanced-brackets/problem)   
+
+### * Codes for April Long Challenge have been updated. *
 
