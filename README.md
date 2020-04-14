@@ -135,5 +135,8 @@ CodeChef Username : devptyagi01
 (https://codeforces.com/problemset/problem/110/A)     
 
 * Solved 'Maximum Element' on HackerRank.    
-(https://www.hackerrank.com/challenges/maximum-element/problem)
+(https://www.hackerrank.com/challenges/maximum-element/problem)    
+
+* Solved 'Special Stack' on GeeksForGeeks.    
+(https://practice.geeksforgeeks.org/problems/special-stack/1)
 
