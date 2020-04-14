@@ -127,5 +127,10 @@ CodeChef Username : devptyagi01
 * Solved 'Balanced Brackets' on HackerRank.     
 (https://www.hackerrank.com/challenges/balanced-brackets/problem)   
 
-### * Codes for April Long Challenge have been updated. *
+### * Codes for April Long Challenge have been updated. *    
+
+## April 14th, 2020     
+
+* Solved '110A - Nearly Lucky Number' on CodeForces.     
+(https://codeforces.com/problemset/problem/110/A)
 
