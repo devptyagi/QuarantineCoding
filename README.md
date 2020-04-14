@@ -138,5 +138,8 @@ CodeChef Username : devptyagi01
 (https://www.hackerrank.com/challenges/maximum-element/problem)    
 
 * Solved 'Special Stack' on GeeksForGeeks.    
-(https://practice.geeksforgeeks.org/problems/special-stack/1)
+(https://practice.geeksforgeeks.org/problems/special-stack/1)      
+
+* Solved 'Bytelandian gold coins' on CodeChef.    
+(https://www.codechef.com/problems/COINS)
 
