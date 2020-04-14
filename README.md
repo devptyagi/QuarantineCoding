@@ -132,5 +132,8 @@ CodeChef Username : devptyagi01
 ## April 14th, 2020     
 
 * Solved '110A - Nearly Lucky Number' on CodeForces.     
-(https://codeforces.com/problemset/problem/110/A)
+(https://codeforces.com/problemset/problem/110/A)     
+
+* Solved 'Maximum Element' on HackerRank.    
+(https://www.hackerrank.com/challenges/maximum-element/problem)
 
