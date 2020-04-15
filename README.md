@@ -146,5 +146,8 @@ CodeChef Username : devptyagi01
 ## April 15th, 2020    
 
 * Solved 'Marbles' on CodeChef.   
-(https://www.codechef.com/problems/MARBLES)
+(https://www.codechef.com/problems/MARBLES)     
+
+* Solved 'K Largest Elements' on GeeksForGeeks. (Using Priority Queue)
+(https://practice.geeksforgeeks.org/problems/k-largest-elements/0)
 
