@@ -149,5 +149,8 @@ CodeChef Username : devptyagi01
 (https://www.codechef.com/problems/MARBLES)     
 
 * Solved 'K Largest Elements' on GeeksForGeeks. (Using Priority Queue)      
-(https://practice.geeksforgeeks.org/problems/k-largest-elements/0)
+(https://practice.geeksforgeeks.org/problems/k-largest-elements/0)    
+
+* Solved 'Kadane's Algorithm' on GeeksForGeeks.   
+(https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 
