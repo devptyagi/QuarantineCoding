@@ -152,5 +152,8 @@ CodeChef Username : devptyagi01
 (https://practice.geeksforgeeks.org/problems/k-largest-elements/0)    
 
 * Solved 'Kadane's Algorithm' on GeeksForGeeks.   
-(https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+(https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)     
+
+* Solved 'Subarray with Given Sum' on GeeksForGeeks.     
+(https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0/)
 
