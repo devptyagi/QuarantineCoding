@@ -148,6 +148,6 @@ CodeChef Username : devptyagi01
 * Solved 'Marbles' on CodeChef.   
 (https://www.codechef.com/problems/MARBLES)     
 
-* Solved 'K Largest Elements' on GeeksForGeeks. (Using Priority Queue)
+* Solved 'K Largest Elements' on GeeksForGeeks. (Using Priority Queue)      
 (https://practice.geeksforgeeks.org/problems/k-largest-elements/0)
 
