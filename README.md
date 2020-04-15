@@ -141,5 +141,10 @@ CodeChef Username : devptyagi01
 (https://practice.geeksforgeeks.org/problems/special-stack/1)      
 
 * Solved 'Bytelandian gold coins' on CodeChef.    
-(https://www.codechef.com/problems/COINS)
+(https://www.codechef.com/problems/COINS)    
+
+## April 15th, 2020    
+
+* Solved 'Marbles' on CodeChef.   
+(https://www.codechef.com/problems/MARBLES)
 
