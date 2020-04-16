@@ -158,5 +158,8 @@ CodeChef Username : devptyagi01
 (https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0/)     
 
 * Solved 'Chef and Street Foor' on CodeChef.    
-(https://www.codechef.com/LRNDSA02/problems/STFOOD)
+(https://www.codechef.com/LRNDSA02/problems/STFOOD)      
+
+* Solved 'Pendalty Shoot-Out II' on CodeChef.    
+(https://www.codechef.com/LRNDSA02/problems/PSHOT)
 
