@@ -155,7 +155,9 @@ CodeChef Username : devptyagi01
 (https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)     
 
 * Solved 'Subarray with Given Sum' on GeeksForGeeks.     
-(https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0/)     
+(https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0/)      
+
+## April 16th, 2020
 
 * Solved 'Chef and Street Foor' on CodeChef.    
 (https://www.codechef.com/LRNDSA02/problems/STFOOD)      
