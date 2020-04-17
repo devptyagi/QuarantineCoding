@@ -163,5 +163,10 @@ CodeChef Username : devptyagi01
 (https://www.codechef.com/LRNDSA02/problems/STFOOD)      
 
 * Solved 'Pendalty Shoot-Out II' on CodeChef.    
-(https://www.codechef.com/LRNDSA02/problems/PSHOT)
+(https://www.codechef.com/LRNDSA02/problems/PSHOT)       
+
+## April 17th, 2020     
+
+* Solved 'Stupid Machine' on CodeChef.      
+(https://www.codechef.com/LRNDSA02/problems/STUPMACH)
 
