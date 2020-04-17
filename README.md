@@ -174,5 +174,8 @@ CodeChef Username : devptyagi01
 (https://www.codechef.com/LRNDSA02/problems/COMPILER)      
 
 * Solved 'Infix to Postfix' on GeeksForGeeks.     
-(https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
+(https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)      
+
+* Solved 'Infix to Postfix' on CodeChef.       
+(https://www.codechef.com/LRNDSA02/problems/INPSTFIX)
 
