@@ -168,5 +168,8 @@ CodeChef Username : devptyagi01
 ## April 17th, 2020     
 
 * Solved 'Stupid Machine' on CodeChef.      
-(https://www.codechef.com/LRNDSA02/problems/STUPMACH)
+(https://www.codechef.com/LRNDSA02/problems/STUPMACH)       
+
+* Solved 'Compilers and Parsers' on CodeChef.    
+(https://www.codechef.com/LRNDSA02/problems/COMPILER)
 
