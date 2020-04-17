@@ -171,5 +171,8 @@ CodeChef Username : devptyagi01
 (https://www.codechef.com/LRNDSA02/problems/STUPMACH)       
 
 * Solved 'Compilers and Parsers' on CodeChef.    
-(https://www.codechef.com/LRNDSA02/problems/COMPILER)
+(https://www.codechef.com/LRNDSA02/problems/COMPILER)      
+
+* Solved 'Infix to Postfix' on GeeksForGeeks.     
+(https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
 
