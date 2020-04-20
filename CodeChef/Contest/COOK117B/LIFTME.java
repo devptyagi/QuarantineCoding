@@ -71,7 +71,7 @@ class Solution {
 		        long fi = sc.nextLong();
 		        long di = sc.nextLong();
 		        count += Math.abs(fi-currentFloor);
-	            currentFloor = fi;
+	            	currentFloor = fi;
 		        count += Math.abs(di-fi);
 		        currentFloor = di;
 		    }
