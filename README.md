@@ -177,5 +177,13 @@ CodeChef Username : devptyagi01
 (https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)      
 
 * Solved 'Infix to Postfix' on CodeChef.       
-(https://www.codechef.com/LRNDSA02/problems/INPSTFIX)
+(https://www.codechef.com/LRNDSA02/problems/INPSTFIX)     
+
+## April 20th, 2020     
+
+* Solved 'Lift Requests' on CodeChef.  **(APRIL COOK-OFF)**     
+(https://www.codechef.com/COOK117B/problems/LIFTME)
+
+
+
 
