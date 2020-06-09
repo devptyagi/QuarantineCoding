@@ -211,5 +211,6 @@ CodeChef Username : devptyagi01
 * Solved '546A - Soldier and Bananas' on CodeForces.      
 (https://codeforces.com/problemset/problem/546/A)     
 
-
+* Solved '479A - Expression' on CodeForces.     
+(https://codeforces.com/problemset/problem/479/A)    
 
