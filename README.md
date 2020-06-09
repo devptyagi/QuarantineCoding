@@ -203,8 +203,13 @@ CodeChef Username : devptyagi01
 * Solved 'Even Mattrix' on CodeChef.   **(JUNE LONG CHALLENGE - ONGOING CONTEST)**   
 (https://www.codechef.com/JUNE20B/problems/EVENM)    
 
+## June 9th, 2020    
 
+* Solved '271A - Beautiful Year' on CodeForces.     
+(https://codeforces.com/problemset/problem/271/A).   
 
+* Solved '546A - Soldier and Bananas' on CodeForces.      
+(https://codeforces.com/problemset/problem/546/A)     
 
 
 
