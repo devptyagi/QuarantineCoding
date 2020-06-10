@@ -217,5 +217,8 @@ CodeChef Username : devptyagi01
 ## June 10th, 2020     
 
 * Solved '630I - Parking Lot' on CodeForces.    
-(https://codeforces.com/contest/630/problem/I)
+(https://codeforces.com/contest/630/problem/I)    
+
+* Solved 'GCD and LCM' on CodeChef.     
+(https://www.codechef.com/problems/FLOW016)    
 
