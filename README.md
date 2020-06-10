@@ -214,3 +214,8 @@ CodeChef Username : devptyagi01
 * Solved '479A - Expression' on CodeForces.     
 (https://codeforces.com/problemset/problem/479/A)    
 
+## June 10th, 2020     
+
+* Solved '630I - Parking Lot' on CodeForces.    
+(https://codeforces.com/contest/630/problem/I)
+
