@@ -223,5 +223,11 @@ CodeChef Username : devptyagi01
 (https://www.codechef.com/problems/FLOW016)    
 
 * Solved 'Guessing Game' **Partially** on CodeChef. **(JUNE LONG CHALLENGE - COMPLETED)**   
-(https://www.codechef.com/JUNE20B/problems/GUESSG)
+(https://www.codechef.com/JUNE20B/problems/GUESSG)   
+
+## June 18th, 2020     
+
+* Solved '1368A - C+=' on CodeForces.    
+(https://codeforces.com/contest/1368/problem/A)
+
 
