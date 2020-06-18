@@ -186,21 +186,21 @@ CodeChef Username : devptyagi01
 
 ## June 6th, 2020     
 
-* Solved 'Chef and Price Control' on CodeChef.   **(JUNE LONG CHALLENGE - ONGOING CONTEST)**   
+* Solved 'Chef and Price Control' on CodeChef.   **(JUNE LONG CHALLENGE - COMPLETED)**   
 (https://www.codechef.com/JUNE20B/problems/PRICECON)  
 
-* Solved 'Chef and String' on CodeChef.   **(JUNE LONG CHALLENGE - ONGOING CONTEST)**   
+* Solved 'Chef and String' on CodeChef.   **(JUNE LONG CHALLENGE - COMPLETED)**   
 (https://www.codechef.com/JUNE20B/problems/XYSTR)   
 
-* Solved 'Chef and Icecream' on CodeChef.   **(JUNE LONG CHALLENGE - ONGOING CONTEST)**   
+* Solved 'Chef and Icecream' on CodeChef.   **(JUNE LONG CHALLENGE - COMPLETED)**   
 (https://www.codechef.com/JUNE20B/problems/CHFICRM)     
 
 ## June 7th, 2020    
 
-* Solved 'The Tom and Jerry Game!' on CodeChef.   **(JUNE LONG CHALLENGE - ONGOING CONTEST)**   
+* Solved 'The Tom and Jerry Game!' on CodeChef.   **(JUNE LONG CHALLENGE - COMPLETED)**   
 (https://www.codechef.com/JUNE20B/problems/EOEO)     
 
-* Solved 'Even Mattrix' on CodeChef.   **(JUNE LONG CHALLENGE - ONGOING CONTEST)**   
+* Solved 'Even Mattrix' on CodeChef.   **(JUNE LONG CHALLENGE - COMPLETED)**   
 (https://www.codechef.com/JUNE20B/problems/EVENM)    
 
 ## June 9th, 2020    
@@ -221,4 +221,7 @@ CodeChef Username : devptyagi01
 
 * Solved 'GCD and LCM' on CodeChef.     
 (https://www.codechef.com/problems/FLOW016)    
+
+* Solved 'Guessing Game' **Partially** on CodeChef. **(JUNE LONG CHALLENGE - COMPLETED)**   
+(https://www.codechef.com/JUNE20B/problems/GUESSG)
 
