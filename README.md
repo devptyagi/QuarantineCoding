@@ -228,6 +228,14 @@ CodeChef Username : devptyagi01
 ## June 18th, 2020     
 
 * Solved '1368A - C+=' on CodeForces.    
-(https://codeforces.com/contest/1368/problem/A)
+(https://codeforces.com/contest/1368/problem/A)    
+
+## June 21st, 2020      
+
+* Solved 'Cache Hits' on CodeChef.  **(JUNE KICKOFF)**     
+(https://www.codechef.com/COOK119B/problems/CACHEHIT)     
+
+* Solved 'Max Mex' on CodeChef.  **(JUNE KICKOFF)**   
+(https://www.codechef.com/COOK119B/problems/MAXMEX)
 
 
