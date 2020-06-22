@@ -232,10 +232,10 @@ CodeChef Username : devptyagi01
 
 ## June 21st, 2020      
 
-* Solved 'Cache Hits' on CodeChef.  **(JUNE KICKOFF)**     
+* Solved 'Cache Hits' on CodeChef.  **(JUNE COOKOFF)**     
 (https://www.codechef.com/COOK119B/problems/CACHEHIT)     
 
-* Solved 'Max Mex' on CodeChef.  **(JUNE KICKOFF)**   
+* Solved 'Max Mex' on CodeChef.  **(JUNE COOKOFF)**   
 (https://www.codechef.com/COOK119B/problems/MAXMEX)
 
 
