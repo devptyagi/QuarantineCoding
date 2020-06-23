@@ -4,7 +4,7 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) throws IOException{
-        Scanner sc = = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int po = sc.nextInt();
         ArrayList<Integer> starting = new ArrayList<>();
