@@ -238,6 +238,11 @@ CodeChef Username : devptyagi01
 * Solved 'Max Mex' on CodeChef.  **(JUNE COOKOFF)**   
 (https://www.codechef.com/COOK119B/problems/MAXMEX)   
 
+## June 22nd, 2020
+
+** Rank #1 Codigo 4.0 [College level contest organized by ACM JUIT] **
+ (https://www.hackerrank.com/contests/codigoov4-0/challenges)
+
 ## June 23rd, 2020   
 
 * Solved '1369A - FashionabLee' on CodeForces.   
