@@ -236,6 +236,14 @@ CodeChef Username : devptyagi01
 (https://www.codechef.com/COOK119B/problems/CACHEHIT)     
 
 * Solved 'Max Mex' on CodeChef.  **(JUNE COOKOFF)**   
-(https://www.codechef.com/COOK119B/problems/MAXMEX)
+(https://www.codechef.com/COOK119B/problems/MAXMEX)   
+
+## June 23rd, 2020   
+
+* Solved '1369A - FashionabLee' on CodeForces.   
+(https://codeforces.com/contest/1369/problem/A)    
+
+* Solved '1369B - AccurateLee' on CodeForces.     
+(https://codeforces.com/contest/1369/problem/B)     
 
 
