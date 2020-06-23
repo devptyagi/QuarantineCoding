@@ -4,7 +4,7 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) throws IOException{
-        Scanner sc = new Scanner();
+        Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
         while(t-- != 0) {
             long c = sc.nextLong();
