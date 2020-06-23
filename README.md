@@ -240,7 +240,7 @@ CodeChef Username : devptyagi01
 
 ## June 22nd, 2020
 
-** Rank #1 Codigo 4.0 [College level contest organized by ACM JUIT] **
+**Rank #1 Codigo 4.0 [College level contest organized by ACM JUIT]**    
  (https://www.hackerrank.com/contests/codigoov4-0/challenges)
 
 ## June 23rd, 2020   
