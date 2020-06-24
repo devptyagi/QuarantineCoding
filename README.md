@@ -254,4 +254,15 @@ CodeChef Username : devptyagi01
 * Solved '1396C - RationalLee' on CodeForces.    
 (https://codeforces.com/contest/1369/problem/C)     
 
+## June 24th, 2020     
+
+* Solved '1370A - Maximum GCD' on CodeForces.     
+(https://codeforces.com/contest/1370/problem/A)    
+
+* Solved '1370B - GCD Compression' on CodeForces.    
+(https://codeforces.com/contest/1370/problem/B)     
+
+* Solved '1370C - Number Game' on CodeForces.     
+(https://codeforces.com/contest/1370/problem/C)
+
 
