@@ -251,4 +251,7 @@ CodeChef Username : devptyagi01
 * Solved '1369B - AccurateLee' on CodeForces.     
 (https://codeforces.com/contest/1369/problem/B)     
 
+* Solved '1396C - RationalLee' on CodeForces.    
+(https://codeforces.com/contest/1369/problem/C)     
+
 
