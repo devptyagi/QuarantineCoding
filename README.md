@@ -268,6 +268,9 @@ CodeChef Username : devptyagi01
 ## June 25th, 2020   
 
 * Solved '1373A - Donut Shops' on CodeForces.     
-(https://codeforces.com/contest/1373/problem/A_
+(https://codeforces.com/contest/1373/problem/A)     
+
+* Solved '1373B - 01 Game' on CodeForces.     
+(https://codeforces.com/contest/1373/problem/B)     
 
 
