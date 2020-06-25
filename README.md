@@ -263,6 +263,11 @@ CodeChef Username : devptyagi01
 (https://codeforces.com/contest/1370/problem/B)     
 
 * Solved '1370C - Number Game' on CodeForces.     
-(https://codeforces.com/contest/1370/problem/C)
+(https://codeforces.com/contest/1370/problem/C)    
+
+## June 25th, 2020   
+
+* Solved '1373A - Donut Shops' on CodeForces.     
+(https://codeforces.com/contest/1373/problem/A_
 
 
