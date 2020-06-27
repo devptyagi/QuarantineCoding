@@ -290,6 +290,6 @@ CodeChef Username : devptyagi01
 (https://www.spoj.com/problems/FCTRL2/)     
 
 * Solved 'Transform the expression' on SPOJ.    
-(https://www.spoj.com/status/ns=26203851)
+(https://www.spoj.com/problems/ONP/)
 
 
