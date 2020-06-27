@@ -304,6 +304,9 @@ SPOJ Username: devptyagi01
 (https://www.spoj.com/problems/ACPC10A/)     
 
 * Solved 'Candy I' on SPOJ.    
-(https://www.spoj.com/problems/CANDY/)
+(https://www.spoj.com/problems/CANDY/)       
+
+* Solved 'Fashion Shows' on SPOJ.    
+(https://www.spoj.com/problems/FASHION/)
 
 
