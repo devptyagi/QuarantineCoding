@@ -295,6 +295,9 @@ SPOJ Username: devptyagi01
 (https://www.spoj.com/problems/ONP/)      
 
 * Solved 'Number Steps' on SPOJ.       
-(https://www.spoj.com/problems/NSTEPS/)
+(https://www.spoj.com/problems/NSTEPS/)     
+
+* Solved 'Feynman' on SPOJ.      
+(https://www.spoj.com/problems/SAMER08F/)
 
 
