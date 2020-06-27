@@ -298,6 +298,9 @@ SPOJ Username: devptyagi01
 (https://www.spoj.com/problems/NSTEPS/)     
 
 * Solved 'Feynman' on SPOJ.      
-(https://www.spoj.com/problems/SAMER08F/)
+(https://www.spoj.com/problems/SAMER08F/)     
+
+* Solved 'What's Next' on SPOJ.     
+(https://www.spoj.com/problems/ACPC10A/)     
 
 
