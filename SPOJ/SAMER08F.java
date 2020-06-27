@@ -8,6 +8,10 @@ class Solution {
 		else if(n == 1) return 1;
 		return (n * n) + sq(n - 1);
 	}
+	
+	/* 
+	 *	O(1) approach : ans = (n * (n + 1) * (2 * n + 1)) / 6;
+	 */
 
 	public static void main(String[] args) throws IOException {
 		FastReader sc = new FastReader();
