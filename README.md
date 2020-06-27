@@ -281,7 +281,7 @@ CodeChef Username : devptyagi01
 * Solved 'Adding Reversed Numbers' on SPOJ.      
 (https://www.spoj.com/problems/ADDREV/)     
 
-# June 27th, 2020    
+## June 27th, 2020    
 
 * Solved 'Factorial' on SPOJ.    
 (https://www.spoj.com/problems/FCTRL/)     
