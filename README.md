@@ -286,4 +286,10 @@ CodeChef Username : devptyagi01
 * Solved 'Factorial' on SPOJ.    
 (https://www.spoj.com/problems/FCTRL/)     
 
+* Solved 'Small Factorials' on SPOJ.     
+(https://www.spoj.com/problems/FCTRL2/)     
+
+* Solved 'Transform the expression' on SPOJ.    
+(https://www.spoj.com/status/ns=26203851)
+
 
