@@ -303,4 +303,7 @@ SPOJ Username: devptyagi01
 * Solved 'What's Next' on SPOJ.     
 (https://www.spoj.com/problems/ACPC10A/)     
 
+* Solved 'Candy I' on SPOJ.    
+(https://www.spoj.com/problems/CANDY/)
+
 
