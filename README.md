@@ -11,6 +11,8 @@ HackerRank Username : devptyagi01
 
 CodeChef Username : devptyagi01
 
+SPOJ Username: devptyagi01
+
 ## April 3rd, 2020
 
 * Solved '236A - Boy or Girl' on Codeforces.   
