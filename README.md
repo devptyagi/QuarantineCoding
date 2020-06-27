@@ -271,6 +271,19 @@ CodeChef Username : devptyagi01
 (https://codeforces.com/contest/1373/problem/A)     
 
 * Solved '1373B - 01 Game' on CodeForces.     
-(https://codeforces.com/contest/1373/problem/B)     
+(https://codeforces.com/contest/1373/problem/B)      
+
+## June 26th, 2020     
+
+* Solved 'Prime Generator' on SPOJ.      
+(https://www.spoj.com/problems/PRIME1/)     
+
+* Solved 'Adding Reversed Numbers' on SPOJ.      
+(https://www.spoj.com/problems/ADDREV/)     
+
+# June 27th, 2020    
+
+* Solved 'Factorial' on SPOJ.    
+(https://www.spoj.com/problems/FCTRL/)     
 
 
