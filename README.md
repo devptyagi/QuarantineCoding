@@ -307,6 +307,11 @@ SPOJ Username: devptyagi01
 (https://www.spoj.com/problems/CANDY/)       
 
 * Solved 'Fashion Shows' on SPOJ.    
-(https://www.spoj.com/problems/FASHION/)
+(https://www.spoj.com/problems/FASHION/)       
+
+## June 30th, 2020     
+
+* Solved 'The Last Digit' on SPOJ.     
+(https://www.spoj.com/problems/LASTDIG/)
 
 
