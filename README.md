@@ -312,6 +312,11 @@ SPOJ Username: devptyagi01
 ## June 30th, 2020     
 
 * Solved 'The Last Digit' on SPOJ.     
-(https://www.spoj.com/problems/LASTDIG/)
+(https://www.spoj.com/problems/LASTDIG/)    
+
+## July 1st, 2020     
+
+* Solved 'Counts Zeros Xor Pairs' on GeeksForGeeks.    
+(https://practice.geeksforgeeks.org/problems/counts-zeros-xor-pairs/0)
 
 
