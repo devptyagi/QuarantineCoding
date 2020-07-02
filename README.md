@@ -317,6 +317,11 @@ SPOJ Username: devptyagi01
 ## July 1st, 2020     
 
 * Solved 'Counts Zeros Xor Pairs' on GeeksForGeeks.    
-(https://practice.geeksforgeeks.org/problems/counts-zeros-xor-pairs/0)
+(https://practice.geeksforgeeks.org/problems/counts-zeros-xor-pairs/0)      
+
+* Solved '1371A - Magical Sticks' on CodeForces.      
+(https://codeforces.com/contest/1371/problem/A)
+
+
 
 
