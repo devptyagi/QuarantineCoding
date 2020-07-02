@@ -322,6 +322,7 @@ SPOJ Username: devptyagi01
 * Solved '1371A - Magical Sticks' on CodeForces.      
 (https://codeforces.com/contest/1371/problem/A)
 
+## July 2nd, 2020      
 
-
-
+* Solved 'Matched Brackets' on CodeChef.     
+(https://www.codechef.com/LRNDSA02/problems/ZCO12001)
