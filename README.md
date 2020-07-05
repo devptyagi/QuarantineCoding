@@ -325,4 +325,25 @@ SPOJ Username: devptyagi01
 ## July 2nd, 2020      
 
 * Solved 'Matched Brackets' on CodeChef.     
-(https://www.codechef.com/LRNDSA02/problems/ZCO12001)
+(https://www.codechef.com/LRNDSA02/problems/ZCO12001)      
+
+## July 3rd, 2020    
+
+* Solved 'Chef and Strings' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**    
+(https://www.codechef.com/JULY20B/problems/CHEFSTR1)      
+
+* Solved 'Chef and Card Game' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**     
+(https://www.codechef.com/JULY20B/problems/CRDGAME)      
+
+* Solved 'Ada King' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**     
+(https://www.codechef.com/JULY20B/problems/ADAKING)       
+
+## July 4th, 2020     
+
+* Solved 'Missing a Point' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**     
+(https://www.codechef.com/JULY20B/problems/PTMSSNG)     
+
+## July 5th 2020     
+
+* Solved 'Chefina and Swaps' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**     
+(https://www.codechef.com/JULY20B/problems/CHFNSWPS)  
