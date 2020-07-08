@@ -346,4 +346,12 @@ SPOJ Username: devptyagi01
 ## July 5th 2020     
 
 * Solved 'Chefina and Swaps' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**     
-(https://www.codechef.com/JULY20B/problems/CHFNSWPS)  
+(https://www.codechef.com/JULY20B/problems/CHFNSWPS)     
+
+## July 8th, 2020    
+
+* Solved 'Doctor Chef' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**     
+(https://www.codechef.com/JULY20B/problems/DRCHEF)      
+
+* Solved 'To and Fro' on SPOJ.     
+(https://www.spoj.com/problems/TOANDFRO/)
