@@ -329,23 +329,23 @@ SPOJ Username: devptyagi01
 
 ## July 3rd, 2020    
 
-* Solved 'Chef and Strings' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**    
+* Solved 'Chef and Strings' on CodeChef.  **(JULY LONG CHALLENGE - COMPLETED)**    
 (https://www.codechef.com/JULY20B/problems/CHEFSTR1)      
 
-* Solved 'Chef and Card Game' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**     
+* Solved 'Chef and Card Game' on CodeChef.  **(JULY LONG CHALLENGE - COMPLETED)**     
 (https://www.codechef.com/JULY20B/problems/CRDGAME)      
 
-* Solved 'Ada King' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**     
+* Solved 'Ada King' on CodeChef.  **(JULY LONG CHALLENGE - COMPLETED)**     
 (https://www.codechef.com/JULY20B/problems/ADAKING)       
 
 ## July 4th, 2020     
 
-* Solved 'Missing a Point' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**     
+* Solved 'Missing a Point' on CodeChef.  **(JULY LONG CHALLENGE - COMPLETED)**     
 (https://www.codechef.com/JULY20B/problems/PTMSSNG)     
 
 ## July 5th 2020     
 
-* Solved 'Chefina and Swaps' on CodeChef.  **(JULY LONG CHALLENGE - ONGOING CONTEST)**     
+* Solved 'Chefina and Swaps' on CodeChef.  **(JULY LONG CHALLENGE - COMPLETED)**     
 (https://www.codechef.com/JULY20B/problems/CHFNSWPS)     
 
 ## July 8th, 2020    
