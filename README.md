@@ -354,4 +354,9 @@ SPOJ Username: devptyagi01
 (https://www.codechef.com/JULY20B/problems/DRCHEF)      
 
 * Solved 'To and Fro' on SPOJ.     
-(https://www.spoj.com/problems/TOANDFRO/)
+(https://www.spoj.com/problems/TOANDFRO/)     
+
+## July 17th, 2020    
+
+* Solved 'Cards' on SPOJ.    
+(https://www.spoj.com/problems/CRDS/)
