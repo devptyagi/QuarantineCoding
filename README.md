@@ -359,4 +359,7 @@ SPOJ Username: devptyagi01
 ## July 17th, 2020    
 
 * Solved 'Cards' on SPOJ.    
-(https://www.spoj.com/problems/CRDS/)
+(https://www.spoj.com/problems/CRDS/)      
+
+* Solved 'Even Numbers' on SPOJ.     
+(https://www.spoj.com/problems/EC_CONB/)
