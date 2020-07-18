@@ -362,4 +362,16 @@ SPOJ Username: devptyagi01
 (https://www.spoj.com/problems/CRDS/)      
 
 * Solved 'Even Numbers' on SPOJ.     
-(https://www.spoj.com/problems/EC_CONB/)
+(https://www.spoj.com/problems/EC_CONB/)     
+
+* Solved '1385A - Three Pairwise Sum' on CodeForces Round #656.    
+(https://codeforces.com/contest/1385/problem/A)     
+
+* Solved '1385B - Restore the Permutation by Merger' on CodeForces Round #656.     
+(https://codeforces.com/contest/1385/problem/B)     
+
+* Solved '1385C - Make It Good' on CodeForces Round #656.      
+(https://codeforces.com/contest/1385/problem/C)        
+
+* Solved '1385D - a-Good String' on CodeForces Round #656.        
+(https://codeforces.com/contest/1385/problem/D)     
